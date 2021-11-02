@@ -1,0 +1,16 @@
+{
+  "name": "customwebpack",
+  "version": "1.0.0",
+  "description": "manual configuration of webpack",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "typescript",
+    "custom"
+  ],
+  "author": "Liu Tianqing",
+  "license": "ISC"
+}
